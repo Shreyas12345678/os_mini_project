@@ -1,0 +1,14 @@
+questions to be asked
+
+1.Round Robin Scheduling algorithm
+2
+
+
+
+
+
+
+os project github links
+
+1)https://github.com/ausafaq/OS-Project
+2) https://github.com/OSSpk/Round-Robin-Scheduler
